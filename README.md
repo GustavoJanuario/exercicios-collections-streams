@@ -24,6 +24,8 @@
 
 ### Exercício sobre Queue
 
+[Link](https://github.com/GustavoJanuario/exercicios-collections-streams/tree/master/src/queue)
+
 ##### 2 - Crie uma fila e execute as seguintes operações:
 
 - Adicione 5 nomes: Juliana, Pedro, Carlos, Larrisa e João.
