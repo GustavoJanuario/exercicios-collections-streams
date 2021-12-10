@@ -1,6 +1,6 @@
-# Exercício final
+# Exercício Final
 
-### Exercício sobre List.
+### Exercício sobre List do curso Implementando Collections e Streams pela DIO.
 
 
 
