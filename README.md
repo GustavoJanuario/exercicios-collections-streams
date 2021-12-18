@@ -2,8 +2,7 @@
 
 
 
-### Exercício sobre List
-
+### Exercício sobre List 
 [Link](https://github.com/GustavoJanuario/exercicios-collections-streams/tree/master/src/list)
 
 ##### 1 - Crie uma lista e execute as seguintes operações:
@@ -22,7 +21,8 @@
 
 
 
-### Exercício sobre Queue
+### Exercício sobre Queue 
+[Link](https://github.com/GustavoJanuario/exercicios-collections-streams/tree/master/src/queue)
 
 ##### 2 - Crie uma fila e execute as seguintes operações:
 
