@@ -34,3 +34,15 @@
 - Retorne o tamanho da fila.
 - Verifique se a fila está vazia.
 - Verifique se o nome Carlos está na fila.
+
+### Exercício sobre Set
+[Link](https://github.com/GustavoJanuario/exercicios-collections-streams/tree/master/src/set)
+
+#### 3 - Crie um set e execute as seguintes operações:
+
+- Adicione 5 números inteiros: 3, 88, 20, 44, 3
+- Navegue no set exibindo cada número no console.
+- Remova o primeiro item do set.
+- Adicione um novo número no set: 23.
+- Verifique o tamanho do set.
+- Verifique se o set está vazio.
